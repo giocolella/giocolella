@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Penetration Testing, Ethical Hacking and CTF challenges**
 
-- 👨‍💻 All of my projects are available at [https://github.com/giocolella](https://github.com/giocolella)
+- 👨‍💻 All of my projects are here
 
 - 📫 How to reach me **giorgio.colella.gc@gmail.com**
 
