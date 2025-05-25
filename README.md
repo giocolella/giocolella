@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giorgio Colella</h1>
 <h3 align="center">A curios and committed cybersecurity developer</h3>
-> "Computer science is no more about computers than astronomy is about telescopes."  
-> **Edsger Dijkstra**
+<blockquote>
+  "Computer science is no more about computers than astronomy is about telescopes."<br>
+  <div align="right"><b>Edsger Dijkstra</b></div>
+</blockquote>
 
 
 - 🔭 I’m currently working on [Pentesting project involving Cyber Battle e Network Attack Simulation](placeholderLink)
