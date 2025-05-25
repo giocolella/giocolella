@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giorgio Colella</h1>
 <h3 align="center">A curios and committed cybersecurity developer</h3>
 <blockquote>
-  ""In the end, it’s not the technology that changes the world. It’s the people."<br>
-  <div align="left"><b>— Jeff Atwood"</b></div>
+  "“There is no algorithm for creativity”"<br>
+  <div align="left"><b>— Andy Hargreaves</b></div>
 </blockquote>
 
 
