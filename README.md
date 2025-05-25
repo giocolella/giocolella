@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=30&pause=500&color=2CF776&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Giorgio+Colella%F0%9F%91%8B;Welcome+to+my+GitHub%F0%9F%92%BB%09" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=30&pause=500&color=2CF776&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Giorgio+Colella%F0%9F%91%8B;Welcome+to+my+GitHub%F0%9F%92%BB%09" alt="Typing SVG" /></a></h1>
 <h3 align="center">A curios and committed cybersecurity developer</h3>
 <blockquote>
   "“There is no algorithm for creativity”"<br>
