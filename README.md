@@ -2,7 +2,7 @@
 <h3 align="center">A curios and committed cybersecurity developer</h3>
 <blockquote>
   "Computer science is no more about computers than astronomy is about telescopes."<br>
-  <div align="right"><b>Edsger Dijkstra</b></div>
+  <div align="left"><b>- Edsger Dijkstra</b></div>
 </blockquote>
 
 
