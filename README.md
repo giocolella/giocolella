@@ -6,7 +6,7 @@
 </blockquote>
 
 
-- 🔭 I’m currently working on [Pentesting project involving Cyber Battle e Network Attack Simulation](placeholderLink)
+- 🔭 I’m currently working on a Pentesting project involving Cyber Battle e Network Attack Simulation
 
 - 🌱 I’m currently learning **Penetration Testing, Ethical Hacking and CTF challenges**
 
