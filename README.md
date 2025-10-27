@@ -6,9 +6,9 @@
 </blockquote>
 
 
-- 🔭 I’m currently working on a Pentesting project involving Cyber Battle e Network Attack Simulation
+- 🔭 I’m currently working on the implementation of the Paxos algorithm and its variants
 
-- 🌱 I’m currently learning **Penetration Testing, Ethical Hacking and CTF challenges**
+- 🌱 I’m currently learning **Advanced Algorithms**
 
 - 👨‍💻 All of my projects are here
 
