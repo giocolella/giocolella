@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my Master's Thesis about SSI and MPC
 
-- 🌱 I’m currently learning **Advanced Algorithms**
+- 🌱 I’m currently learning **SSI and MPC**
 
 - 👨‍💻 All of my projects are here
 
