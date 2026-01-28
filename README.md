@@ -6,7 +6,7 @@
 </blockquote>
 
 
-- 🔭 I’m currently working on the implementation of the Paxos algorithm and its variants
+- 🔭 I’m currently working on my Master's Thesis about SSI and MPC
 
 - 🌱 I’m currently learning **Advanced Algorithms**
 
