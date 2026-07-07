@@ -6,9 +6,9 @@
 </blockquote>
 
 
-- 🔭 I’m currently working on my Master's Thesis about SSI and MPC
+- 🔭 I’m currently working on an n8n project
 
-- 🌱 I’m currently learning **SSI and MPC**
+- 🌱 I’m currently learning **Quantum Resistant Threshold Signature Schemes**
 
 - 👨‍💻 All of my projects are here
 
